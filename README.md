@@ -29,10 +29,8 @@ Follow these steps to run the project on your local machine:
 *   Hover effects on social media icons
 *   Simple, maintainable code
 
-## Author
 
-*   
 
 ## Acknowledgments
 
-*   Inspired by a design challenge from 
+*   Inspired by a design challenge from Internet
